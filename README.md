@@ -28,7 +28,7 @@ load and whether CUDA extensions need to be compiled during the first run.
 Open and run:
 
 ```text
-inter_challenge_3D.ipynb
+video_to_3D.ipynb
 ```
 in google colab
 
